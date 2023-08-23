@@ -1,1 +1,7 @@
 go 1.20
+
+use (
+	./08-modules
+	./09-external_imports
+	./10-structures
+)
